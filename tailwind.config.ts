@@ -28,6 +28,7 @@ const config: Config = {
       backgroundImage: {
         'hero-bg': "url('/hero-bg.png')",
         hero: "url('/hero.png')",
+        pattern: "url('/pattern.png')",
       },
     },
   },
